@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **ReactJS**  
   
 
-- ❓ Ask me about **Java, Spring Boot, MicroServices**   
+- ❓ Ask me about **Python, Java, Flask, SQLAlchemy, Kubernetes, Kafka, RabbitMQ, Postgres, TimescaleDB, Cassandra, Spring Boot, MicroServices**   
   
 
 - ⚡ Fun fact: I Google Stuff Most of time 😜  

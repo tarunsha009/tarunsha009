@@ -77,6 +77,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#17](https://github.com/tarunsha009/Blog-Platform/issues/17) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
+2. ❗ Opened issue [#16](https://github.com/tarunsha009/Blog-Platform/issues/16) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
+3. ❗ Opened issue [#15](https://github.com/tarunsha009/Blog-Platform/issues/15) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
+4. ❗ Opened issue [#14](https://github.com/tarunsha009/Blog-Platform/issues/14) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
+5. ❗ Opened issue [#13](https://github.com/tarunsha009/Blog-Platform/issues/13) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
 <!--END_SECTION:activity-->
 
 ## Coding Activity (WakaTime)

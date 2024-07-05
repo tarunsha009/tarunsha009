@@ -77,11 +77,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/tarunsha009/Blog-Platform/issues/10) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
-2. 🔒 Closed issue [#8](https://github.com/tarunsha009/Blog-Platform/issues/8) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
-3. 🔒 Closed issue [#9](https://github.com/tarunsha009/Blog-Platform/issues/9) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
-4. ❗ Opened issue [#68](https://github.com/tarunsha009/Blog-Platform/issues/68) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
-5. ❗ Opened issue [#67](https://github.com/tarunsha009/Blog-Platform/issues/67) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
+1. 🔒 Closed issue [#71](https://github.com/tarunsha009/Blog-Platform/issues/71) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
+2. 🎉 Merged PR [#70](https://github.com/tarunsha009/Blog-Platform/pull/70) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
+3. ❗ Opened issue [#71](https://github.com/tarunsha009/Blog-Platform/issues/71) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
+4. 💪 Opened PR [#70](https://github.com/tarunsha009/Blog-Platform/pull/70) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
+5. 🔒 Closed issue [#11](https://github.com/tarunsha009/Blog-Platform/issues/11) in [tarunsha009/Blog-Platform](https://github.com/tarunsha009/Blog-Platform)
 <!--END_SECTION:activity-->
 
 ## Coding Activity (WakaTime)

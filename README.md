@@ -84,11 +84,6 @@
 5. ❗ Opened issue [#7](https://github.com/tarunsha009/Python/issues/7) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
 <!--END_SECTION:activity-->
 
-## Coding Activity (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## GitHub Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunsha009&theme=dracula" alt="GitHub Activity Graph" />

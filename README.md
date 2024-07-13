@@ -77,11 +77,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/tarunsha009/Python/issues/8) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
-2. 🎉 Merged PR [#18](https://github.com/tarunsha009/Python/pull/18) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
-3. 💪 Opened PR [#18](https://github.com/tarunsha009/Python/pull/18) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
-4. 🔒 Closed issue [#7](https://github.com/tarunsha009/Python/issues/7) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
-5. 🎉 Merged PR [#17](https://github.com/tarunsha009/Python/pull/17) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
+1. ❗ Opened issue [#23](https://github.com/tarunsha009/Python/issues/23) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
+2. ❗ Opened issue [#22](https://github.com/tarunsha009/Python/issues/22) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
+3. ❗ Opened issue [#21](https://github.com/tarunsha009/Python/issues/21) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
+4. ❗ Opened issue [#20](https://github.com/tarunsha009/Python/issues/20) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
+5. ❗ Opened issue [#19](https://github.com/tarunsha009/Python/issues/19) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
 <!--END_SECTION:activity-->
 
 ## GitHub Activity Graph

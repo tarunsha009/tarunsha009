@@ -43,7 +43,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tarunsha009&theme=dracula" alt="GitHub Activity Graph" />
 </div>
 
-![Snake animation](https://github.com/tarunsha009/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/tarunsha009/tarunsha009/blob/output/github-contribution-grid-snake.svg)
 
 ## Profile Views
 <div align="center">

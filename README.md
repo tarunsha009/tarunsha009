@@ -31,11 +31,11 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/tarunsha009/Python/pull/31) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
-2. 💪 Opened PR [#31](https://github.com/tarunsha009/Python/pull/31) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
-3. 🎉 Merged PR [#30](https://github.com/tarunsha009/Python/pull/30) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
-4. 💪 Opened PR [#30](https://github.com/tarunsha009/Python/pull/30) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
-5. 🎉 Merged PR [#29](https://github.com/tarunsha009/Python/pull/29) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
+1. 🎉 Merged PR [#32](https://github.com/tarunsha009/Python/pull/32) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
+2. 💪 Opened PR [#32](https://github.com/tarunsha009/Python/pull/32) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
+3. 🎉 Merged PR [#31](https://github.com/tarunsha009/Python/pull/31) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
+4. 💪 Opened PR [#31](https://github.com/tarunsha009/Python/pull/31) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
+5. 🎉 Merged PR [#30](https://github.com/tarunsha009/Python/pull/30) in [tarunsha009/Python](https://github.com/tarunsha009/Python)
 <!--END_SECTION:activity-->
 
 ## GitHub Activity Graph
